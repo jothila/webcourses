@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+    background-color: aliceblue;
+    position:fixed;
+}
+a{
+    font-size: 30px; font-style: italic; color: blue; text-decoration: none;font-weight: 3000px; margin-left: 60px;
+    font-style: italic;  font-size: 50px;
+}
+p{
+     color: red;
+    font-size: 50px;
+    font-weight: 2000px;
+    font-style: italic;
+}
+li{
+    float: left;
+}
+li:hover{
+    background-color: gold;
+     color: gold;
+     font-size: 60px;
+}
+h1{
+    color: darkblue;
+    font-size: 60px;
+    font-weight: 3000px;
+    font-style: italic;
+}
+body{
+    text-align: center;
+}
